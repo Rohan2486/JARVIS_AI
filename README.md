@@ -118,7 +118,3 @@ JarvisAssistant/
 - [OpenAI GPT-3.5 API](https://platform.openai.com/)
 
 ---
-
-## 📜 License
-
-MIT License – feel free to modify and distribute.
