@@ -1,0 +1,17 @@
+#JSGF V1.0;
+
+grammar commands;
+
+public <command> = (open (calculator | notepad | notes))
+    | (what is the time)
+    | (tell me the time)
+    | (what is the weather in london)
+    | (what is the weather in delhi)
+    | (weather in mumbai)
+    | (exit)
+    | (quit);
+
+#JSGF V1.0;
+grammar commands;
+
+public <command> = (open browser | what time is it | shutdown computer);
