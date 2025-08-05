@@ -117,4 +117,3 @@ JarvisAssistant/
 - [FreeTTS Text-to-Speech](https://freetts.sourceforge.net/)
 - [OpenAI GPT-3.5 API](https://platform.openai.com/)
 
----
